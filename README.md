@@ -1,2 +1,2 @@
-# POC---Python
+# POC-Python
 Proof of concept: Python
