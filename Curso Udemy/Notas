@@ -1,0 +1,10 @@
+Ctrl + Q -> accede a una mini-documentacion del metodo en el q estoy parado
+
+tupla = ()
+lista = []
+Set = {}
+Dicc = {
+
+}
+
+para declarar una funcion se usa la palabra reservada def
