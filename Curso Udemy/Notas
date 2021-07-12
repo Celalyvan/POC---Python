@@ -8,3 +8,5 @@ Dicc = {
 }
 
 para declarar una funcion se usa la palabra reservada def
+
+python tiene un garbage collector
