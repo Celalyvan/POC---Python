@@ -10,3 +10,7 @@ Dicc = {
 para declarar una funcion se usa la palabra reservada def
 
 python tiene un garbage collector
+
+No existen las constantes como tal, se confia en la convencion
+de que las constantes se declaran en mayusculas
+
